@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            Satlykov Store!
+            Satlykov Store!!!!!!!
           </Link>
         </Typography>
 
